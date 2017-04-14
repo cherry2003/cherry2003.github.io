@@ -2,6 +2,14 @@
     font-family: 'DK Elbow Grease';
     src: url('fonts/DK Elbow Grease.otf');
 }
+
+h1 {
+    font-family: 'DK Elbow Grease';
+}
+
+h2 {
+    font-family: 'Open Sans', sans-serif;
+}
 body {
     background-image: url(images/background.png);
     background-size: cover;
