@@ -4,12 +4,27 @@
 }
 
 h1 {
+    color: #FFFFFF;
+    cursor: default;
+    font-size: 60px;
+    font-weight: default;
     font-family: 'DK Elbow Grease';
 }
 
 h2 {
+    color: #FFFFFF;
+    cursor: default;
+    font-size: 30px;
     font-family: 'Open Sans', sans-serif;
 }
+
+h3 {
+    color: #FFFFFF;
+    cursor: default;
+    font-size: 18px;
+    font-family: 'Oopen Sans', sans-serif;
+}
+
 body {
     background-image: url(images/background.png);
     background-size: cover;
