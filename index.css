@@ -4,7 +4,7 @@
 }
 
 h1 {
-    color: #FFFFFF;
+    color: #1e2124;
     cursor: default;
     font-size: 60px;
     font-weight: default;
@@ -12,14 +12,14 @@ h1 {
 }
 
 h2 {
-    color: #FFFFFF;
+    color: #1e2124;
     cursor: default;
     font-size: 35px;
     font-family: 'DK Elbow Grease';
 }
 
 p {
-    color: #FFFFFF;
+    color: #1e2124;
     cursor: default;
     font-size: 18px;
     font-family: 'Open Sans', sans-serif;
