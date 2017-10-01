@@ -1,6 +1,8 @@
 @font-face {
     font-family: 'DK Elbow Grease';
     src: url('fonts/DK Elbow Grease.otf');
+    font-family: 'Kisah Ceritra Regular';
+    src: url('fonts/Kisah Ceritra Regular.otf');
 }
 
 h1 {
