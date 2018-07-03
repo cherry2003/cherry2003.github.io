@@ -3,21 +3,29 @@
     src: url('fonts/DK Elbow Grease.otf');
     font-family: 'Kisah Ceritra Regular';
     src: url('fonts/Kisah Ceritra Regular.otf');
+    font-family: 'MadameKlara';
+    src: url('fonts/MadameKlara.ttf');
+    font-family: 'PixelFont';
+    src: url('fonts/000webfont.ttf');
 }
 
-h1 {
+.title1 {
     color: #1e2124;
     cursor: default;
     font-size: 60px;
     font-weight: default;
     font-family: 'DK Elbow Grease';
+    margin-bottom: 0px;
 }
 
-h2 {
+.title2 {
     color: #1e2124;
     cursor: default;
     font-size: 35px;
-    font-family: 'DK Elbow Grease';
+    font-family: 'MadameKlara';
+    text-decoration: none;
+    margin-top: 0px;
+    margin-bottom: 10px;
 }
 
 p {
@@ -30,7 +38,16 @@ p {
 body {
     background-image: url(images/background.png);
     background-size: cover;
-    font-family: 'DK Elbow Grease';
+    font-size: 20px;
+    font-family: 'MadameKlara';
     text-align: center;
     color: white;
+}
+
+a.text {
+    color: black;
+    font-size: 30px;
+    font-family: 'PixelFont';
+    text-align: center;
+    letter-spacing: 2px;
 }
