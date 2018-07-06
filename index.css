@@ -44,7 +44,7 @@ p {
     font-size: 30px;
     font-family: 'PixelFont';
     text-align: center;
-    letter-spacing: 2px;
+    letter-spacing: 10px;
     text-decoration: none;
 }
 
@@ -82,4 +82,12 @@ body {
 
 .cornerImage {
     width: 200px;
+}
+
+.note {
+    font-style: italic;
+    font-size: 12px;
+    opacity: 0.5;
+    color: rgb(48, 48, 48);
+    text-align: center;
 }
