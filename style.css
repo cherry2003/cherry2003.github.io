@@ -80,3 +80,13 @@ body {
     margin-top: 10px;
     margin-left: 20px;
 }
+
+.fixed {
+    position: fixed;
+    right: 50px;
+    bottom: -5px;
+}
+
+.cornerImage {
+    width: 200px;
+}
